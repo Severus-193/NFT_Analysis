@@ -30,7 +30,7 @@ This project is a **web-based NFT sales analysis platform** built using **ASP.NE
 
 1. **Clone the Repository**  
 ```sh
-git clone https://github.com/Severus-193/NFT_Analysis
+git clone https://github.com/Severus-193/NFT_Analysis.git
 cd NFT_Analysis
 ```
 
