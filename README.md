@@ -1,4 +1,4 @@
-<center># NFT Sales Analysis Platform</center>
+# NFT Sales Analysis Platform
 
 ## Overview  
 This project is a **web-based NFT sales analysis platform** built using **ASP.NET WebForms**. It connects to an **SQL Server 2008 database** via **ADO.NET** and employs a **Linear Regression model** to analyze and predict **NFT sales trends**. The application is developed in **Visual Studio 2022** and utilizes **Web Services** for API calls, while **jQuery and AJAX** enhance the front-end interactivity.  
